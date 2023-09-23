@@ -125,3 +125,5 @@ export const DARK_TOKENS = {
   ...DARK_COLORS,
   ...DARK_SHADOWS,
 };
+
+export const ACTIVE_THEME_COOKIE_NAME = 'bits-and-bites-theme'
